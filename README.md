@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 # 👋 Hello, I'm Isha Joglekar
 
-Welcome to my GitHub profile! I'm a **Software Engineer** with a strong passion for building intuitive and impactful solutions. With experience in **Fintech** and **UI/UX Design**, I specialize in creating applications that are not just functional but user-centric. Whether it's working on complex backend systems or designing beautiful user interfaces, I'm always excited about taking on new challenges and expanding my skill set.
+- Welcome to my GitHub profile! I'm a **Software Engineer** with a strong passion for building intuitive and impactful solutions. With experience in **Fintech** and **UI/UX Design**, I specialize in creating applications that are not just functional but user-centric. Whether it's working on complex backend systems or designing beautiful user interfaces, I'm always excited about taking on new challenges and expanding my skill set.
 ---
 
 ## 🌟 About Me
@@ -36,7 +36,7 @@ Here are a few projects that I’ve worked on, showcasing my skills in full-stac
 ### 🏆 [Teacher’s Bot-Aide](https://github.com/ishajoglekar/teachers-bot-aide)
 An AI-powered tool built with **Django** to help educators automatically generate and grade questions across text, images, and audio formats. This project won the **Smart India Hackathon** for streamlining the assessment process in education.
 
-### ⚡ [LLM CodeSphere]
+### ⚡ [LLM CodeSphere](https://github.com/Ujjawal-K-Panchal/LiMCA)
 A developer tool leveraging **Large Language Models (LLMs)** to generate and optimize code snippets in real time. This platform improves developer productivity by automating repetitive tasks and providing intelligent code suggestions.
 
 ---
